@@ -1,6 +1,8 @@
 ## Web developer, linux enjoyer      
-<span style="color:blue">some *blue* text</span>.
+
 <sub><sup>I use arch btw ✌️</sup></sub>
+
+<span style="color:blue">some *blue* text</span>.
 
 #### 📝 currently learning Lua
 
