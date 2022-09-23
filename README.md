@@ -1,5 +1,5 @@
-## Web developer, linux enjoyer      
-<sub><sup>combining the two tags</sup></sub>
+## Web developer, linux enjoyer      <sub><sup>combining the two tags</sup></sub>
+
 ### 📝 currently learning Lua
 
 ##
