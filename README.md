@@ -1,4 +1,4 @@
-## Web dev developer, linux enjoyer
+## Web developer, linux enjoyer
 
 <p align="left">
 </p>
