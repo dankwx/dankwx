@@ -2,7 +2,7 @@
 
 <sub><sup>I use arch btw ✌️</sup></sub>
 
-<span style="color:blue">some *blue* text</span>.
+- <span style="color:blue">some *blue* text</span>.
 
 #### 📝 currently learning Lua
 
