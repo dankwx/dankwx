@@ -1,5 +1,5 @@
-## Web developer, linux enjoyer
-### 📝 currently learning Lua
+## Web developer, linux enjoyer ### 📝 currently learning Lua
+
 
 <p align="left">
 </p>
