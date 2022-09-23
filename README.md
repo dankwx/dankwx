@@ -4,8 +4,8 @@
 
 
 
-#### 📝 currently trying to learning Lua ．．． 
-<sub>🥺</sub>
+#### 📝 currently trying to learning Lua ．．．  <sub>🥺</sub>
+
 
 ##
 
