@@ -1,5 +1,5 @@
 ## Web developer, linux enjoyer      
-<sub><sup>I use arch btw</sup></sub>
+<sub><sup>I use arch btw ✌️</sup></sub>
 
 ### 📝 currently learning Lua
 
