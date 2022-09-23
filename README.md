@@ -4,7 +4,7 @@
 
 
 
-#### 📝 currently trying to learning Lua ‧‧‧
+#### 📝 currently trying to learning Lua ．．．
 
 ##
 
