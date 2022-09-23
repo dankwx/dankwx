@@ -1,4 +1,5 @@
-## Web developer, linux enjoyer      <small>test</small>
+## Web developer, linux enjoyer      
+<small>test</small>
 ### 📝 currently learning Lua
 
 ##
