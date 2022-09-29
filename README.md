@@ -2,7 +2,9 @@
   <img align="right" img src="https://i.pinimg.com/474x/c4/f8/65/c4f865fe2496989d02a2969500a7fd4f--anime-boys-computers.jpg" width="200" height="300">
   
 </div>
-<h1><img src="https://88by31.neocities.org/misc/iwishicouldgobackintime.gif"</h2>
+<h1><img src="https://88by31.neocities.org/misc/iwishicouldgobackintime.gif">
+  <img src="https://88by31.neocities.org/misc/2020SUCKS.png">
+  <img src="https://88by31.neocities.org/misc/education.png"></h2>
 <h3>🤭 I'm Daniel, a web-dev</h3>
 <p>◻️  My stack is mainly React, TypeScript and Node.js but I like tweaking with </br>
 Python and Lua, just for fun.
