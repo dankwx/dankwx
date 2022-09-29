@@ -6,6 +6,7 @@
   <img src="https://88by31.neocities.org/misc/2020SUCKS.png">
   <img src="https://88by31.neocities.org/misc/education.png">
   <img src="https://88by31.neocities.org/web/dumbass.gif">
+  <img src="https://88by31.neocities.org/web/hicolor.gif">
   </h2>
 <h3>🤭 I'm Daniel, a web-dev</h3>
 <p>◻️  My stack is mainly React, TypeScript and Node.js but I like tweaking with </br>
