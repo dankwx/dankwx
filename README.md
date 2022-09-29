@@ -1,23 +1,28 @@
-<div align="center">
-  <p>
-    <img src="https://i.pinimg.com/474x/c4/f8/65/c4f865fe2496989d02a2969500a7fd4f--anime-boys-computers.jpg" width="200" height="300"/>
-  <p/>
-  <img src="https://komarev.com/ghpvc/?username=dankwwx&style=flat-square&color=blue" alt=""/>
+<div>
+  <img align="right" img src="https://i.pinimg.com/474x/c4/f8/65/c4f865fe2496989d02a2969500a7fd4f--anime-boys-computers.jpg" width="200" height="300">
+  
 </div>
-<h3>oi<h3>
-<sub><sup>I use arch btw ✌️</sup></sub>
+
+<h1>🎋</h2>
+<h3>🤭 I'm Daniel, a web-dev</h3>
+<p>◻️  My stack is mainly React, TypeScript and Node.js but I like tweaking with </br>
+Python and Lua, just for fun.
+</p>
+<p>◻️  I also like Linux, I distro-hopped like ~20 different distros and versions, </br>
+but I ended up with arch <sub><sup>btw ✌️</sup></sub>
+</p>
 
 
 
-<p>Current Mood:  <img height="20" src="https://moods.imood.com/display/uname-cinderpeach/bg-fdaebf/imood.gif" /> <p/>     
-
+<h3>Current Mood:  <img height="20" src="https://moods.imood.com/display/uname-cinderpeach/bg-fdaebf/imood.gif" /> <h3/>     
+<img align="right" src="https://komarev.com/ghpvc/?username=dankwx&style=flat-square&color=blue" alt=""/>
 
 ##
 
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dankwx&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="dankwx" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dankwx&show_icons=true&theme=dark&locale=en&layout=compact" alt="dankwx" /></p>
 
 ##
 
@@ -31,4 +36,3 @@ alt="tst" />
 <p align="center">
 <img src="https://i.imgur.com/0S71XeR.gif" />
 <p/>
-https://komarev.com/ghpvc/?username=dankwx
