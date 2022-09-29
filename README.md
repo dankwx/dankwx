@@ -12,14 +12,15 @@ but I ended up with arch <sub><sup>btw ✌️</sup></sub>
 </p>
 
 
-  <p align="right">
+  
+<p align="right">
+<h3>Current Mood:  <img height="20" src="https://moods.imood.com/display/uname-cinderpeach/bg-fdaebf/imood.gif" /> <h3/>
+</p>
+<p align="right">
 <a align="right" href="https://www.linkedin.com/in/daniel-kondlatsch/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </p>
-<p align="right">
-<h3>Current Mood:  <img height="20" src="https://moods.imood.com/display/uname-cinderpeach/bg-fdaebf/imood.gif" /> <h3/>
-</p>
 
 
 ##
