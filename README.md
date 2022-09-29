@@ -2,8 +2,7 @@
   <img align="right" img src="https://i.pinimg.com/474x/c4/f8/65/c4f865fe2496989d02a2969500a7fd4f--anime-boys-computers.jpg" width="200" height="300">
   
 </div>
-
-<h1>🎋</h2>
+<h1><img src="https://i.imgur.com/L5k4dFw.gif"</h2>
 <h3>🤭 I'm Daniel, a web-dev</h3>
 <p>◻️  My stack is mainly React, TypeScript and Node.js but I like tweaking with </br>
 Python and Lua, just for fun.
