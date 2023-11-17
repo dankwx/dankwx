@@ -21,7 +21,7 @@ Minha expertise se concentra em React, TypeScript e Node.js. Adoro construir apl
 
   
 <p align="right">
-<h3>Current Mood:  <img height="50" src="https://64.media.tumblr.com/c61acdffa2df96f00669bfdba3cc0aa2/1e7eaecd1d53670e-ef/s400x600/129bd914aa9eca3d79e98c1f91cdcbed592432a3.jpg" /> <h3/>
+<h3>Current Mood:  <img height="20" src="https://moods.imood.com/display/uname-cinderpeach/bg-fdaebf/imood.gif" /> <h3/>
 </p>
 <p align="right">
 <a align="right" href="https://www.linkedin.com/in/daniel-kondlatsch/">
