@@ -12,7 +12,7 @@
 <h2>🌐 PT/EN </h2>
 <div style="font-size: 1.1em;">
   <h3>💻 Tecnologias Principais:</h3>
-Minha expertise se concentra em React, TypeScript e Node.js, permitindo-me prosperar na construção de aplicações web robustas e inovadoras. Além disso, tenho prazer em explorar Python e Lua para adicionar uma pitada de criatividade e diversão.
+Minha expertise se concentra em React, TypeScript e Node.js. Adoro construir aplicações web robustas e inovadoras com essas tecnologias. Também curto dar uma olhada em Python e Lua para adicionar um toque de criatividade e diversão ao processo.
 </div>
 <div style="font-size: 1.1em;">
   <h3>🚀 Constante Aprendizado:</h3> Sempre ansioso para aprender e me adaptar, mantenho-me atualizado com as últimas tecnologias e melhores práticas no desenvolvimento web.
