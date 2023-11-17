@@ -10,12 +10,12 @@
   <img src="https://88by31.neocities.org/music/plasticlove.png">
   </h2>
 <h3>🌐 PT/EN </h3>
-<p style="font-size: 2.1em;">
+<div style="font-size: 1.1em;">
   ◻️  💻 My primary stack revolves around React, TypeScript, and Node.js, where I thrive in building robust and innovative web applications. I also enjoy exploring Python and Lua for a touch of creativity and fun.
-</p>
-<p style="font-size: 1.1em;">
+</div>
+<div style="font-size: 1.1em;">
   ◻️  🚀 Always eager to learn and adapt, I stay up-to-date with the latest technologies and best practices in web development.
-</p>
+</div>
 
 
   
