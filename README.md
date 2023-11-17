@@ -15,7 +15,7 @@
 Minha expertise se concentra em React, TypeScript e Node.js, permitindo-me prosperar na construção de aplicações web robustas e inovadoras. Além disso, tenho prazer em explorar Python e Lua para adicionar uma pitada de criatividade e diversão.
 </div>
 <div style="font-size: 1.1em;">
-  ◻️  🚀 Sempre ansioso para aprender e me adaptar, mantenho-me atualizado com as últimas tecnologias e melhores práticas no desenvolvimento web.
+  <h3>🚀 Constante Aprendizado:</h3> Sempre ansioso para aprender e me adaptar, mantenho-me atualizado com as últimas tecnologias e melhores práticas no desenvolvimento web.
 </div>
 
 
