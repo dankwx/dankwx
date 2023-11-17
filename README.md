@@ -1,5 +1,5 @@
 <div>
-  <img align="right" img src="https://64.media.tumblr.com/c61acdffa2df96f00669bfdba3cc0aa2/1e7eaecd1d53670e-ef/s400x600/129bd914aa9eca3d79e98c1f91cdcbed592432a3.jpg" width="500" height="300">
+  <img align="right" img src="https://i.pinimg.com/564x/81/e4/ba/81e4ba379c5993457c32f413c29b7ca9.jpg" width="200" height="300">
   
 </div>
 <h1><img src="https://88by31.neocities.org/misc/iwishicouldgobackintime.gif">
