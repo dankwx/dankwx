@@ -9,7 +9,7 @@
   <img src="https://88by31.neocities.org/web/hicolor.gif">
   <img src="https://88by31.neocities.org/music/plasticlove.png">
   </h2>
-<h3>🌐 PT/EN </h3>
+<h2>🌐 PT/EN </h2>
 <div style="font-size: 1.1em;">
   <h3>💻 Tecnologias Principais:</h3>
 Minha expertise se concentra em React, TypeScript e Node.js, permitindo-me prosperar na construção de aplicações web robustas e inovadoras. Além disso, tenho prazer em explorar Python e Lua para adicionar uma pitada de criatividade e diversão.
