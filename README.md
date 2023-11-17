@@ -11,7 +11,7 @@
   </h2>
 <h3>🌐 PT/EN </h3>
 <div style="font-size: 1.1em;">
-  ◻️  💻 My primary stack revolves around React, TypeScript, and Node.js, where I thrive in building robust and innovative web applications. I also enjoy exploring Python and Lua for a touch of creativity and fun.
+  ◻️  💻 Minha pilha principal gira em torno de React, TypeScript e Node.js, onde prospero na construção de aplicações web robustas e inovadoras. Também gosto de explorar Python e Lua para adicionar uma pitada de criatividade e diversão.
 </div>
 <div style="font-size: 1.1em;">
   ◻️  🚀 Always eager to learn and adapt, I stay up-to-date with the latest technologies and best practices in web development.
