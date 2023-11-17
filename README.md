@@ -10,11 +10,10 @@
   <img src="https://88by31.neocities.org/music/plasticlove.png">
   </h2>
 <h3>🤭 I'm Daniel, a web-dev</h3>
-<p>◻️  My stack is mainly React, TypeScript and Node.js but I like tweaking with </br>
-Python and Lua, just for fun.
+<p>◻️  💻 My primary stack revolves around React, TypeScript, and Node.js, where I thrive in building robust and innovative web applications.
+  I also enjoy exploring Python and Lua for a touch of creativity and fun.
 </p>
-<p>◻️  I also like Linux, I distro-hopped like ~20 different distros and versions, </br>
-but I ended up with arch <sub><sup>btw ✌️</sup></sub>
+<p>◻️  🚀 Always eager to learn and adapt, I stay up-to-date with the latest technologies and best practices in web development.
 </p>
 
 
