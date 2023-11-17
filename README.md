@@ -14,7 +14,7 @@
   ◻️  💻 Minha pilha principal gira em torno de React, TypeScript e Node.js, onde prospero na construção de aplicações web robustas e inovadoras. Também gosto de explorar Python e Lua para adicionar uma pitada de criatividade e diversão.
 </div>
 <div style="font-size: 1.1em;">
-  ◻️  🚀 Always eager to learn and adapt, I stay up-to-date with the latest technologies and best practices in web development.
+  ◻️  🚀 Sempre ansioso para aprender e me adaptar, mantenho-me atualizado com as últimas tecnologias e melhores práticas no desenvolvimento web.
 </div>
 
 
