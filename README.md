@@ -9,7 +9,7 @@
   <img src="https://88by31.neocities.org/web/hicolor.gif">
   <img src="https://88by31.neocities.org/music/plasticlove.png">
   </h2>
-<h3>🤭 I'm Daniel, a web-dev</h3>
+<h3>🌐 PT/EN </h3>
 <p>◻️  💻 My primary stack revolves around React, TypeScript, and Node.js, where I thrive in building robust and innovative web applications.
   I also enjoy exploring Python and Lua for a touch of creativity and fun.
 </p>
