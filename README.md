@@ -36,6 +36,6 @@ Também veja meus projetos aqui no GitHub!
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Prisma.svg" alt="linux" height="35"/></a>
   </p>
 <p/>
-<p align="right">
+<p align="center">
 <img src="https://i.imgur.com/0S71XeR.gif" />
 <p/>
