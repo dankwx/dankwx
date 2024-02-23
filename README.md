@@ -31,6 +31,6 @@ Caso queira saber mais sobre mim, veja meu blog.
 <img height="65" src="https://64.media.tumblr.com/c61acdffa2df96f00669bfdba3cc0aa2/1e7eaecd1d53670e-ef/s400x600/129bd914aa9eca3d79e98c1f91cdcbed592432a3.jpg"
 alt="tst" />
 <p/>
-<p align="center">
+<p align="right">
 <img src="https://i.imgur.com/0S71XeR.gif" />
 <p/>
