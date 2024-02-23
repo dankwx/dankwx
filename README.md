@@ -10,7 +10,7 @@
 Sou **Daniel**, um desenvolvedor front-end ;)\
 Uso várias das tecnologias atuais do mercado para construir webapp e sites.</br>
 Caso queira saber mais sobre mim, veja meu blog.</br></br>
-<a href="https://dankwx.com" target="_blank">dankwx.com</a> e <a href="https://blog.dankwx.com" target="_blank">blog.dankwx.com</a>
+<a href="https://dankwx.com" target="_blank" rel="noreferrer noopener">dankwx.com</a> e <a href="https://blog.dankwx.com" target="_blank">blog.dankwx.com</a>
 <p align="right">
   </p>
 <img src="https://blinkies.neocities.org/b/display/0148-kirbyswim.gif" alt="node.js" height="20"/>
