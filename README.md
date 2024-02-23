@@ -2,7 +2,6 @@
   <img align="right" img src="https://i.pinimg.com/564x/fc/6e/26/fc6e260da0a16cb59e53949a6d4e0e11.jpg" width="200" height="300" style="border-radius:50%">
   
 </div>
-<hr/>
 <div style="font-size: 1.1em;">
 </div>
 <div style="font-size: 1.1em;">
