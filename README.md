@@ -15,7 +15,6 @@ Caso queira saber mais sobre mim, veja meu blog.</br></br>
   </p>
 <img src="https://blinkies.neocities.org/b/display/0148-kirbyswim.gif" alt="node.js" height="20"/>
 
-Também veja meus projetos aqui no GitHub!
 <hr/>
 
 
