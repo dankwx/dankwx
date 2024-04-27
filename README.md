@@ -9,7 +9,7 @@
 
 Sou **Daniel**\
 Uso várias das tecnologias atuais do mercado para construir webapp e sites.</br>
-Caso queira saber mais sobre mim, veja meu blog.</br></br>
+Caso queira saber mais sobre mim:</br></br>
 <a href="https://dankwx.com" target="_blank" rel="noreferrer noopener">dankwx.com</a> e <a href="https://blog.dankwx.com" target="_blank">blog.dankwx.com</a>
 <p align="right">
   </p>
