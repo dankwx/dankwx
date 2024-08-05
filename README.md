@@ -13,7 +13,7 @@ Caso queira saber mais sobre mim:</br></br>
 <a href="https://dankwx.com" target="_blank" rel="noreferrer noopener">dankwx.com</a> e <a href="https://blog.dankwx.com" target="_blank">blog.dankwx.com</a>
 <p align="right">
   </p>
-<img src="https://blinkies.neocities.org/b/display/0148-kirbyswim.gif" alt="node.js" height="20"/>
+<!-- <img src="https://blinkies.neocities.org/b/display/0148-kirbyswim.gif" alt="node.js" height="20"/> -->
 
 <hr/>
 
