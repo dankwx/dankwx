@@ -36,5 +36,4 @@ Caso queira saber mais sobre mim:</br></br>
   </p>
 <p/>
 <p align="center">
-<img src="https://i.imgur.com/0S71XeR.gif" />
 <p/>
